@@ -1,0 +1,2 @@
+-record(users, {username, password}).
+-record(tasks, {id, username, subject, description}).
